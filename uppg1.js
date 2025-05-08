@@ -1,12 +1,10 @@
+console.clear(); // Rensa ut konsolen
 
+function uppg1() {
+  // Skriv ut texten "Hello World!" i konsolen
 
-function uppg1(){
+  console.log("Hello World!");
+}
 
-    // Skriv ut texten "Hello World!" i konsolen
-    
-
-    
-    }
-
-
-    module.exports = { uppg1 };
+uppg1();
+module.exports = { uppg1 };
